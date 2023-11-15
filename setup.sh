@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-## Author  : Aditya Shakya (adi1090x)
-## Mail    : adi1090x@gmail.com
-## Github  : @adi1090x
-## Twitter : @adi1090x
+## Author  : JOYAL Group
+## Mail    : contact@joyal.co.in
+## Github  : @PKJoyal
+## Twitter : @PKJoyal
 
 ## Termux Desktop : Setup GUI in Termux 
 
@@ -41,7 +41,7 @@ banner() {
 		${RED}│${GREEN}░░░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░░░█░█░█▀▀░▀▀█░█▀▄░░█░░█░█░█▀▀░░${RED}│
 		${RED}│${GREEN}░░░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░▀▀░░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░░░░${RED}│
 		${RED}└──────────────────────────────────────────────────────────┘
-		${BLUE}By : Aditya Shakya // @adi1090x
+		${BLUE}By : JOYAL Group // @PKJoyal
 	EOF
 }
 
